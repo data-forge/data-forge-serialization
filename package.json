@@ -1,6 +1,6 @@
 {
     "name": "@data-forge/serialization",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Serialization interface for Data-Forge. This defines a simple format for a serialized dataframe.",
     "main": "build/index.js",
     "types": "build/index.d.ts",

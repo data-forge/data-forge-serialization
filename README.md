@@ -1,5 +1,5 @@
-# data-forge-serialization
+# data-forge/serialization
 
-Serialization interface for [Data-Forge](http://data-forge-js.com/). 
+This library contains the common serialization format for [Data-Forge](http://data-forge-js.com/). 
 
-This defines a simple format for a serialized dataframe.
+This is a simple format for a serialized dataframe.
